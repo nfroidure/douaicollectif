@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Agenda Douai Collectif
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:cOnw3trHveKUxyVbPqj9I
+UID:ljaySE3JN8NUt2Fqz0mu1
 SUMMARY:Marche organisée par Nous Toutes Douai
-DTSTAMP:20251123T182902Z
+DTSTAMP:20251123T183029Z
 DTSTART:20251122T140000Z
 URL:https://douai-collectif.fr/agenda/marche-organisee-par-nous-toutes-doua
 	i
