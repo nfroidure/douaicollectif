@@ -1,0 +1,45 @@
+{
+  "name": "douaicollectif",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next",
+    "build": "next build && touch out/.nojekyll && echo 'douai-collectif.fr' > out/CNAME",
+    "start": "next start",
+    "types": "tsc --pretty --noEmit",
+    "format": "prettier --write contents src",
+    "lint": "next lint",
+    "tootNewPosts": "tsx bin/tootNewPosts.ts",
+    "bskNewPosts": "tsx bin/bskNewPosts.ts"
+  },
+  "dependencies": {
+    "@types/inline-style-prefixer": "^5.0.3",
+    "front-matter": "^4.0.2",
+    "glob": "^13.0.0",
+    "ics": "^3.8.1",
+    "inline-style-prefixer": "^7.0.1",
+    "next": "^16.0.3",
+    "node-html-markdown": "^2.0.0",
+    "prettier": "^3.6.2",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "remark-gfm": "^4.0.1",
+    "remark-parse": "^11.0.0",
+    "sass": "^1.94.2",
+    "schema-dts": "^1.1.5",
+    "unified": "11.0.5",
+    "yaml": "2.8.1",
+    "yerror": "^8.0.0"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@types/node": "^22",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.0.3",
+    "prettier": "^3.6.2",
+    "tsx": "^4.20.6",
+    "typescript": "^5"
+  }
+}

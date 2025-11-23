@@ -1,0 +1,54 @@
+@use "../../styles/variables.scss";
+
+.strip p {
+  margin: 0;
+  padding: calc(var(--vRhythm) * 0.5) var(--gutter);
+  line-height: var(--vRhythm);
+  font-weight: bold;
+}
+.strip.top {
+  font-size: var(--smallFontSize);
+  text-align: right;
+}
+.strip.bottom {
+  text-align: left;
+}
+
+.hero {
+  height: calc(var(--vRhythm) * 8);
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: cover;
+}
+
+.logo {
+  display: block;
+  position: relative;
+  bottom: 0;
+  left: var(--gutter);
+  height: calc(var(--vRhythm) * 8);
+  width: calc(var(--vRhythm) * 8);
+  background-image: url("/images/header.svg");
+  background-size: contain;
+  background-position: bottom left;
+  background-repeat: no-repeat;
+}
+.logo span {
+  display: none;
+}
+
+@media screen and (min-width: variables.$CSS_BREAKPOINT_START_L) {
+  .hero {
+    height: calc(var(--vRhythm) * 14);
+  }
+  .logo {
+    width: calc(var(--vRhythm) * 14);
+    height: calc(var(--vRhythm) * 14);
+  }
+}
+
+@media print {
+  header.root {
+    display: none;
+  }
+}

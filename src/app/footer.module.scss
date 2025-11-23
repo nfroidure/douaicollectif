@@ -1,0 +1,40 @@
+@use "../../styles/variables.scss";
+
+.root {
+  margin: 0;
+  padding: var(--vRhythm) var(--gutter);
+  background-color: var(--quaternary-darker);
+  color: var(--light);
+  text-align: center;
+}
+.root p {
+  padding: 0;
+  margin: 0;
+}
+.root a,
+.root a:visited,
+.root a:hover {
+  color: var(--light);
+}
+
+@media screen and (min-width: variables.$CSS_BREAKPOINT_START_L) and (max-width: variables.$CSS_BREAKPOINT_END_L) {
+  .bottom {
+    display: flex;
+    justify-content: center;
+  }
+}
+
+@media print {
+  .root,
+  .root footer,
+  .bottom,
+  .bottom p {
+    padding: 0;
+    margin: 0;
+    width: auto;
+    height: auto;
+  }
+  .root a {
+    display: none;
+  }
+}

@@ -1,0 +1,16 @@
+@use "../../styles/variables.scss";
+
+.root {
+  margin: 0;
+  padding: var(--vRhythm) var(--gutter);
+  background-color: var(--quaternary);
+  color: var(--light);
+  text-align: center;
+  font-weight: bold;
+}
+
+@media print {
+  .root {
+    display: none;
+  }
+}

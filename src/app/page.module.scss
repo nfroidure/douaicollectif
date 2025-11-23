@@ -1,0 +1,20 @@
+@use "../../styles/variables.scss";
+
+.signature {
+  height: calc(var(--vRhythm) * 3);
+  text-align: center;
+}
+.signature img {
+  height: calc(var(--vRhythm) * 3);
+  width: auto;
+}
+@media screen and (min-width: variables.$CSS_BREAKPOINT_START_L) {
+  .content {
+    flex-direction: row;
+  }
+}
+@media print {
+  .toots {
+    display: none;
+  }
+}
