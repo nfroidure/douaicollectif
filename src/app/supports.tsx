@@ -18,8 +18,8 @@ export default function Supports() {
             <Image
               src="/images/logo-les-ecologistes.svg"
               alt="Les Écologistes du Douaisis"
-              width={500}
-              height={96}
+              width={500 / 2}
+              height={96 / 2}
             />
           </Link>
           <Link
@@ -29,8 +29,8 @@ export default function Supports() {
             <Image
               src="/images/logo-les-jeunes-ecologistes.svg"
               alt="Les Jeunes Écologistes du Bassin-Minier"
-              width={500}
-              height={96}
+              width={500 / 2}
+              height={96 / 2}
             />
           </Link>
         </p>
