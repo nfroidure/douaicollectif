@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">    
+  <id>https://douai-collectif.fr/actualites</id>
+  <title>Actualités - Douai Collectif - Douai Collectif</title>
+  <subtitle>Découvrez les actualités de Douai Collectif.</subtitle>
+  <link href="https://douai-collectif.fr/actualites.atom" rel="self" type="application/atom+xml" />
+  <link href="https://douai-collectif.fr/actualites" rel="alternate" type="text/html" />
+  <updated>2025-11-22T19:00:00.000Z</updated>
+  <entry>
+    <id>https://douai-collectif.fr/actualites/creation-de-douai-collectif</id>
+    <title>Création de Douai Collectif !</title>
+    <link href="https://douai-collectif.fr/actualites/creation-de-douai-collectif" rel="alternate" type="text/html" />
+    <updated>2025-11-22T19:00:00.000Z</updated>
+    <published>2025-11-22T19:00:00.000Z</published>
+    <summary>La démarche résolument écologiste, ancrée à gauche, démocratique et citoyenne engagée pour les élections municipales de 2026 à Douai prend aujourd’hui un nom et une identité.</summary>
+    <author>
+      <name>Douai Collectif</name>
+    </author>
+  </entry>
+</feed>

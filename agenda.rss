@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Agenda  - Douai Collectif - Douai Collectif</title>
+    <description>Découvrez les évènements que nous organisons ou auxquels nous participons.</description>
+    <link>https://douai-collectif.fr/agenda</link>
+    <atom:link href="https://douai-collectif.fr/agenda.rss" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Nov 2025 05:00:00 GMT</lastBuildDate>
+    <pubDate>Sun, 23 Nov 2025 18:08:29 GMT</pubDate>
+    <ttl>1800</ttl>
+      <item>
+        <guid isPermaLink="true">https://douai-collectif.fr/agenda/marche-organisee-par-nous-toutes-douai</guid>
+        <title>Marche organisée par Nous Toutes Douai</title>
+        <description>Marche contre les féminicides, les violences sexistes et sexuelles et toutes les violences de genre.</description>
+        <link>https://douai-collectif.fr/agenda/marche-organisee-par-nous-toutes-douai</link>
+        <pubDate>Sun, 09 Nov 2025 05:00:00 GMT</pubDate>
+      </item>
+  </channel>
+</rss>
