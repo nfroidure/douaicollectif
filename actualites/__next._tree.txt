@@ -1,4 +1,4 @@
 :HL["https://douai-collectif.fr/_next/static/chunks/6bf285aba4ea20ea.css","style"]
 :HL["https://douai-collectif.fr/_next/static/chunks/149087569d81492e.css","style"]
 :HL["https://douai-collectif.fr/illustrations/mairie-douai.jpg","image"]
-0:{"buildId":"wyYSWJehOHvKCGlHfon0K","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"actualites","paramType":null,"paramKey":"actualites","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"sspXjTIr65kevakOAJv1t","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"actualites","paramType":null,"paramKey":"actualites","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
