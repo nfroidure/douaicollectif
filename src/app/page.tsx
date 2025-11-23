@@ -30,7 +30,7 @@ export default async function Page() {
       </Paragraph>
       <Paragraph>
         Douai Collectif a pour vocation de présenter une liste aux élections
-        municipales 20206 à Douai. Notre démarche se fonde sur trois piliers
+        municipales 2026 à Douai. Notre démarche se fonde sur trois piliers
         essentiels&nbsp;: la citoyenneté, l’écologie et la solidarité.
       </Paragraph>
       <Heading2>Sur ce site, retrouvez&nbsp;:</Heading2>
