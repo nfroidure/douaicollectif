@@ -1,6 +1,6 @@
 ---
 title: Pourquoi une liste de plus à gauche ?
-date: "2024-06-05T08:30:00.000Z"
+date: "2024-11-22T08:30:00.000Z"
 draft: false
 ---
 

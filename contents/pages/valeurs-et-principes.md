@@ -7,7 +7,7 @@ draft: false
 
 # Charte des principes et valeurs du collectif
 
-**Le collectif Douai Collectif – Pour une ville citoyenne, écologiste et solidaire a pour but de gagner les élections municipales de mars 2026 à Douai et mettre en œuvre le programme co-construit.** Constitué de citoyen·nes et de membres des écologistes, il se définit par un certain nombre de valeurs et de principes auxquels toutes personnes désireuses de le rejoindre doivent adhérer.
+**Le collectif Douai Collectif ! – Pour une ville citoyenne, écologiste et solidaire a pour but de gagner les élections municipales de mars 2026 à Douai et mettre en œuvre le programme co-construit.** Constitué de citoyen·nes et de membres des écologistes, il se définit par un certain nombre de valeurs et de principes auxquels toutes personnes désireuses de le rejoindre doivent adhérer.
 
 ## Esprit de cette charte
 

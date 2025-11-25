@@ -22,14 +22,14 @@ export async function generateMetadata(): Promise<Metadata> {
 export default async function Page() {
   return (
     <ContentBlock>
-      <Heading1>Douai Collectif</Heading1>
+      <Heading1>Douai Collectif&nbsp;!</Heading1>
       <Paragraph>
         <Strong>
           Pour une ville citoyenne, écologique et solidaire&nbsp;!
         </Strong>
       </Paragraph>
       <Paragraph>
-        Douai Collectif a pour vocation de présenter une liste aux élections
+        Douai Collectif&nbsp;! a pour vocation de présenter une liste aux élections
         municipales 2026 à Douai. Notre démarche se fonde sur trois piliers
         essentiels&nbsp;: la citoyenneté, l’écologie et la solidarité.
       </Paragraph>

@@ -17,7 +17,7 @@ export default function AgendaEntries({
     <ContentBlock>
       <Heading1>Agenda</Heading1>
       <Paragraph>
-        Grâce à cet agenda, vous pouvez retrouver que nous organisons ou
+        Grâce à cet agenda, vous pouvez retrouver les évènements que nous organisons ou
         auxquels nous participons. Vous pouvez également ajouter ces derniers à
         votre propre agenda{" "}
         <Anchor
