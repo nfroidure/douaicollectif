@@ -6,9 +6,37 @@
     <description>Découvrez les évènements que nous organisons ou auxquels nous participons.</description>
     <link>https://douai-collectif.fr/agenda</link>
     <atom:link href="https://douai-collectif.fr/agenda.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 09 Nov 2025 05:00:00 GMT</lastBuildDate>
-    <pubDate>Sun, 23 Nov 2025 20:27:30 GMT</pubDate>
+    <lastBuildDate>Tue, 25 Nov 2025 11:00:00 GMT</lastBuildDate>
+    <pubDate>Tue, 25 Nov 2025 12:16:02 GMT</pubDate>
     <ttl>1800</ttl>
+      <item>
+        <guid isPermaLink="true">https://douai-collectif.fr/agenda/conseil-municipal-de-douai-fevrier-2026</guid>
+        <title>Conseil Municipal de Douai - Février 2026</title>
+        <description>Dernier conseil municipal de l’année.</description>
+        <link>https://douai-collectif.fr/agenda/conseil-municipal-de-douai-fevrier-2026</link>
+        <pubDate>Tue, 25 Nov 2025 11:00:00 GMT</pubDate>
+      </item>
+      <item>
+        <guid isPermaLink="true">https://douai-collectif.fr/agenda/conseil-municipal-de-douai-janvier-2026</guid>
+        <title>Conseil Municipal de Douai - Janvier 2026</title>
+        <description>Dernier conseil municipal de l’année.</description>
+        <link>https://douai-collectif.fr/agenda/conseil-municipal-de-douai-janvier-2026</link>
+        <pubDate>Tue, 25 Nov 2025 10:00:00 GMT</pubDate>
+      </item>
+      <item>
+        <guid isPermaLink="true">https://douai-collectif.fr/agenda/conseil-communautaire-de-douaisis-agglo-decembre-2025</guid>
+        <title>Conseil Communautaire de Douaisis Agglo - Décembre 2025</title>
+        <description>Dernier conseil communautaire de l’année.</description>
+        <link>https://douai-collectif.fr/agenda/conseil-communautaire-de-douaisis-agglo-decembre-2025</link>
+        <pubDate>Tue, 25 Nov 2025 09:00:00 GMT</pubDate>
+      </item>
+      <item>
+        <guid isPermaLink="true">https://douai-collectif.fr/agenda/conseil-municipal-de-douai-decembre-2025</guid>
+        <title>Conseil Municipal de Douai - Décembre 2025</title>
+        <description>Dernier conseil municipal de l’année.</description>
+        <link>https://douai-collectif.fr/agenda/conseil-municipal-de-douai-decembre-2025</link>
+        <pubDate>Tue, 25 Nov 2025 08:00:00 GMT</pubDate>
+      </item>
       <item>
         <guid isPermaLink="true">https://douai-collectif.fr/agenda/marche-organisee-par-nous-toutes-douai</guid>
         <title>Marche organisée par Nous Toutes Douai</title>
