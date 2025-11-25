@@ -5,9 +5,9 @@ import { ORGANISATION_NAME } from "@/utils/constants";
 import Content from "./content";
 
 export default function Header({
-  backgroundImage = "/public/illustrations/scarpe-douai.jpg",
+  backgroundImage = "/public/illustrations/parc-bertin.jpg",
   backgroundPositionX = "center",
-  backgroundPositionY = "-500px",
+  backgroundPositionY = "center",
 }: {
   backgroundImage?: string;
   backgroundPositionX?: "left" | "center" | "right" | string;
