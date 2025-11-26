@@ -34,7 +34,7 @@ export default function Page() {
       </Paragraph>
       <Heading2>Édition</Heading2>
       <Paragraph>
-        Le site {DOMAIN_NAME} est édité par “{ORGANISATION_LEGAL_NAME}”, sis{" "}
+        Le site {DOMAIN_NAME} est édité par “{ORGANISATION_LEGAL_NAME}”, située{" "}
         {ORGANISATION_ADDRESS}. Le directeur de publication est {PUBLISHER}.
       </Paragraph>
       <Heading2>Propriété intellectuelle</Heading2>
@@ -56,11 +56,10 @@ export default function Page() {
         l’utilisateur et constituerait une contrefaçon sanctionnée par les
         articles L 335-2 et suivants du Code de la Propriété Intellectuelle. Il
         en est de même des bases de données figurant, le cas échéant, sur le
-        site {DOMAIN_NAME}
-        qui sont protégées par les dispositions de la loi du 1er juillet 1998
-        portant transposition dans le Code de la Propriété Intellectuelle de la
-        Directive Européenne du 11 mars 1996 relative à la protection juridique
-        des bases de données.
+        site {DOMAIN_NAME} qui sont protégées par les dispositions de la loi du
+        1er juillet 1998 portant transposition dans le Code de la Propriété
+        Intellectuelle de la Directive Européenne du 11 mars 1996 relative à la
+        protection juridique des bases de données.
       </Paragraph>
       <Paragraph>
         A ce titre, toute reproduction ou extraction engagerait la
@@ -121,8 +120,8 @@ export default function Page() {
       <Paragraph>
         Vous pouvez, si vous le souhaitez, vous abonner à la lettre
         d’information. Dans ce cas, vos données seront enregistrées et
-        conservées par mes soins et vous pourrez à tout moment vous en
-        désincrire par simple retour de mail.
+        conservées par nos soins et vous pourrez à tout moment vous en
+        désinscrire par simple retour de mail.
       </Paragraph>
       <Paragraph>
         Vous disposez d’un droit de modification et/ou de suppression de vos
