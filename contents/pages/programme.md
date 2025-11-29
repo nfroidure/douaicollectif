@@ -10,3 +10,8 @@ draft: false
 Notre collectif a élaboré un programme pour les Douaisien·nes et avec les Douaisien·nes. Ce document est voué à vivre durant la campagne, mais aussi après.
 
 [Lire notre programme](/documents/programme-municipal-douai-collectif.pdf "📃")
+
+
+## Rejoignez-nous !
+
+Pour nous rejoindre, c’est simple, [complétez ce formulaire](https://framaforms.org/participer-avec-douai-collectif-1764425164).
