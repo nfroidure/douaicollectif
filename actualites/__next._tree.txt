@@ -2,4 +2,4 @@
 :HL["https://douai-collectif.fr/_next/static/chunks/221c13c0dcdcb532.css","style"]
 :HL["https://douai-collectif.fr/images/diaporamas/rejoindre/3-raisons-page-de-garde.png","image"]
 :HL["https://douai-collectif.fr/illustrations/mairie-douai.jpg","image"]
-0:{"buildId":"atWqyOTshjNRStbtOYJiU","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"actualites","paramType":null,"paramKey":"actualites","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"IZzhOcSAGMhx8C1jJro4S","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"actualites","paramType":null,"paramKey":"actualites","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
