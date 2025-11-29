@@ -1,4 +1,3 @@
-import { ORGANISATION_CONTACT } from "../utils/constants";
 import buildMetadata from "../utils/metadata";
 import ContentBlock from "../components/contentBlock";
 import Heading1 from "../components/h1";
@@ -29,9 +28,9 @@ export default async function Page() {
         </Strong>
       </Paragraph>
       <Paragraph>
-        Douai Collectif&nbsp;! a pour vocation de présenter une liste aux élections
-        municipales 2026 à Douai. Notre démarche se fonde sur trois piliers
-        essentiels&nbsp;: la citoyenneté, l’écologie et la solidarité.
+        Douai Collectif&nbsp;! a pour vocation de présenter une liste aux
+        élections municipales 2026 à Douai. Notre démarche se fonde sur trois
+        piliers essentiels&nbsp;: la citoyenneté, l’écologie et la solidarité.
       </Paragraph>
       <Heading2>Sur ce site, retrouvez&nbsp;:</Heading2>
       <UnorderedList>
@@ -72,10 +71,10 @@ export default async function Page() {
       <Paragraph>
         Pour participer à changer Douai avec nous,{" "}
         <Anchor
-          href={`mailto:${ORGANISATION_CONTACT}`}
+          href={`https://framaforms.org/participer-avec-douai-collectif-1764425164`}
           title="Contacter notre collectif"
         >
-          contactez-nous
+          il suffit de compléter ce formulaire
         </Anchor>
         .
       </Paragraph>
