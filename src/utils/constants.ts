@@ -18,6 +18,7 @@ export const MASTODON_ACCOUNT = "douaicollectif";
 export const MASTODON_ACCOUNT_ID = "115588760858818956";
 export const MASTODON_SERVER = "piaille.fr";
 export const FACEBOOK_ACCOUNT = "douaicollectif";
+export const INSTAGRAM_ACCOUNT = "douai_collectif";
 export const BLUESKY_ACCOUNT = "douaicollectif";
 export const BLUESKY_SERVER = "bsky.social";
 export const BLUESKY_APP = "bsky.app";

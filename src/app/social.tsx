@@ -4,6 +4,7 @@ import {
   BLUESKY_APP,
   BLUESKY_SERVER,
   FACEBOOK_ACCOUNT,
+  INSTAGRAM_ACCOUNT,
   MASTODON_ACCOUNT,
   MASTODON_SERVER,
 } from "../utils/constants";
@@ -12,7 +13,6 @@ export default function Social() {
   return (
     <nav className={styles.root}>
       <ul>
-        {/* Waiting for official launch
         <li className={styles.mastodon}>
           <a
             href={`https://${MASTODON_SERVER}/@${MASTODON_ACCOUNT}`}
@@ -42,7 +42,17 @@ export default function Social() {
           >
             <span>Facebook</span>
           </a>
-        </li>*/}
+        </li>
+        <li className={styles.instagram}>
+          <a
+            href={`https://instagram.com/${INSTAGRAM_ACCOUNT}`}
+            rel="me"
+            title="Me suivre sur instagram"
+            target="_blank"
+          >
+            <span>Instagram</span>
+          </a>
+        </li>
         <li className={styles.feed}>
           <a
             href="/actualites.atom"
