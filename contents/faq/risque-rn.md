@@ -9,3 +9,5 @@ Aux dernières élections municipales, le Rassemblement National et sa tête de 
 Il semble improbable que ces derniers parviennent à cumuler ces trois scores étant donné qu’une bonne partie des adhérent·es LR et des citoyen·nes de la liste de Jacques Brenot n’ont pas du tout apprécié leur virage idéologique et s’en sont clairement distingués.
 
 Bien que ce risque soit écarté au premier tour, il nous semble important de rester sur nos gardes pour le second tour. À savoir, Basta Media a publié une carte du risque RN, la ville de Douai y est classée [en risque faible](https://basta.media/La-carte-des-cinquante-villes-qui-pourraient-basculer-extreme-droite-elections-municipales).
+
+Enfin, nous pensons que faire front contre l’extrême droite n’est pas un programme en soi. C’est la raison pour laquelle nous avons souhaité être présent·es au premier tour. Nos propositions font système et consistent en une solution globale cohérente contre les causes du délitement de notre société. Celles-cis méritent d’être entendues et portées au vote des Douaisien·nes, sans être altérées en amont.
