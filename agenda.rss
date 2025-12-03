@@ -6,9 +6,16 @@
     <description>Découvrez les évènements que nous organisons ou auxquels nous participons.</description>
     <link>https://douai-collectif.fr/agenda</link>
     <atom:link href="https://douai-collectif.fr/agenda.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 25 Nov 2025 11:00:00 GMT</lastBuildDate>
-    <pubDate>Sun, 30 Nov 2025 11:02:38 GMT</pubDate>
+    <lastBuildDate>Wed, 03 Dec 2025 11:30:00 GMT</lastBuildDate>
+    <pubDate>Wed, 03 Dec 2025 15:25:04 GMT</pubDate>
     <ttl>1800</ttl>
+      <item>
+        <guid isPermaLink="true">https://douai-collectif.fr/agenda/reunion-de-travail-du-collectif</guid>
+        <title>Réunion de travail du collectif</title>
+        <description>Au menu, retour d’expérience de nos élu·es, formation au rôle des élu·es et point programmatique sur la démocratie participative.</description>
+        <link>https://douai-collectif.fr/agenda/reunion-de-travail-du-collectif</link>
+        <pubDate>Wed, 03 Dec 2025 11:30:00 GMT</pubDate>
+      </item>
       <item>
         <guid isPermaLink="true">https://douai-collectif.fr/agenda/conseil-municipal-de-douai-fevrier-2026</guid>
         <title>Conseil Municipal de Douai - Février 2026</title>

@@ -6,9 +6,22 @@ METHOD:PUBLISH
 X-WR-CALNAME:Agenda Douai Collectif
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:vTfqszb-TuJ1iaRDoqAwl
+UID:hY7wcj-AUuYvGICfVXH_6
+SUMMARY:Réunion de travail du collectif
+DTSTAMP:20251203T152504Z
+DTSTART:20251205T173000Z
+URL:https://douai-collectif.fr/agenda/reunion-de-travail-du-collectif
+GEO:50.3731192;3.0775676
+LOCATION:Maison des Associations Avenue des Potiers 59500 Douai
+ORGANIZER;CN="Douai Collectif":MAILTO:contact@douai-collectif.fr
+CREATED:20251203T113000Z
+LAST-MODIFIED:20251203T113000Z
+DURATION:PT3H
+END:VEVENT
+BEGIN:VEVENT
+UID:CTIo1dKM_od_ugSGLs3v5
 SUMMARY:Conseil Municipal de Douai - Février 2026
-DTSTAMP:20251130T110238Z
+DTSTAMP:20251203T152504Z
 DTSTART:20260213T170000Z
 URL:https://douai-collectif.fr/agenda/conseil-municipal-de-douai-fevrier-20
 	26
@@ -21,9 +34,9 @@ LAST-MODIFIED:20251125T110000Z
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:yJ8fZX9LHxa9zGlYTwmlk
+UID:Ba10r_TYCn_799cDQaKWq
 SUMMARY:Conseil Municipal de Douai - Janvier 2026
-DTSTAMP:20251130T110238Z
+DTSTAMP:20251203T152505Z
 DTSTART:20260123T170000Z
 URL:https://douai-collectif.fr/agenda/conseil-municipal-de-douai-janvier-20
 	26
@@ -35,9 +48,9 @@ LAST-MODIFIED:20251125T100000Z
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:bxFGogaapxYYwF5m0yeHl
+UID:TH9lgNyhRdMQ6HCDmV8FP
 SUMMARY:Conseil Communautaire de Douaisis Agglo - Décembre 2025
-DTSTAMP:20251130T110238Z
+DTSTAMP:20251203T152505Z
 DTSTART:20251218T170000Z
 URL:https://douai-collectif.fr/agenda/conseil-communautaire-de-douaisis-agg
 	lo-decembre-2025
@@ -49,9 +62,9 @@ LAST-MODIFIED:20251125T090000Z
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:ggvt7N08n8LVDP6qhEJ5-
+UID:JR_LzPsUr0bBLsuHlGwAl
 SUMMARY:Conseil Municipal de Douai - Décembre 2025
-DTSTAMP:20251130T110238Z
+DTSTAMP:20251203T152505Z
 DTSTART:20251204T170000Z
 URL:https://douai-collectif.fr/agenda/conseil-municipal-de-douai-decembre-2
 	025
@@ -63,9 +76,9 @@ LAST-MODIFIED:20251125T080000Z
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:d23O6guC1_NwBUSQrYTDO
+UID:_xBUHAyDSR2vpYm7HZjpJ
 SUMMARY:Marche organisée par Nous Toutes Douai
-DTSTAMP:20251130T110238Z
+DTSTAMP:20251203T152505Z
 DTSTART:20251122T140000Z
 URL:https://douai-collectif.fr/agenda/marche-organisee-par-nous-toutes-doua
 	i
