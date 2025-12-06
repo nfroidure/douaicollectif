@@ -12,9 +12,9 @@ import { type Metadata } from "next";
 export async function generateMetadata(): Promise<Metadata> {
   return buildMetadata({
     pathname: "/",
-    title: "Pour une ville Citoyenne, Écologique et Solidaires",
+    title: "Élections municipales 2026",
     description:
-      "Découvrez Douai Collectif, liste candidate aux élections municipales 2026.",
+      "Découvrez la liste « Douai Collectif ! Pour une ville Citoyenne, Écologique et Solidaire. » candidate aux municipales 2026 à Douai.",
   });
 }
 
