@@ -47,13 +47,23 @@ export default function Events({
               <Fragment>
                 📍{" "}
                 {entry.geolocation ? (
-                  <Anchor
-                    href={`geo:${entry.geolocation.lat},${entry.geolocation.lng}`}
-                    title="Voir sur un plan"
-                    target="_blank"
-                  >
-                    {entry.location.name} {entry.location.address}
-                  </Anchor>
+                  <Fragment>
+                    <Anchor
+                      href={` https://www.openstreetmap.org/?lat=${entry.geolocation.lat}&lon=${entry.geolocation.lng}&zoom=19&layers=M`}
+                      title="Voir sur un plan"
+                      target="_blank"
+                    >
+                      {entry.location.name} {entry.location.address}
+                    </Anchor>{" "}
+                    -
+                    <Anchor
+                      href={`geo:${entry.geolocation.lat},${entry.geolocation.lng}`}
+                      title="Ouvrir mon application GPS"
+                      target="_blank"
+                    >
+                      🗺️
+                    </Anchor>
+                  </Fragment>
                 ) : (
                   `${entry.location.name} ${entry.location.address}`
                 )}

@@ -1,5 +1,5 @@
 ---
-title: "Eau potable : nous signons la pétition «La Goutte de trop» !"
+title: "Eau potable : nous signons la pétition «La Goutte de trop» !"
 description: "Pour garantir une eau propre à la consommation à un tarif accessible pour toutes et tous."
 date: "2026-01-02T16:10:00.000Z"
 draft: false
@@ -17,7 +17,9 @@ illustration:
   alt: "Photographie du stand de l’UFC Que Choisir de Douai"
 ---
 
-# Eau potable : nous signons la pétition « La Goutte de trop » !
+# Eau potable : nous signons la pétition « La Goutte de trop » !
+
+[Photographie du stand de l’UFC Que Choisir de Douai](/public/illustrations/stand-ufc-que-choisir-douai-eau-potable.jpg)
 
 Pour garantir une eau propre à la consommation à un tarif accessible pour toutes et tous, il est nécessaire de la préserver des pollutions extérieures.
 
