@@ -6,9 +6,65 @@
     <description>Découvrez les évènements que nous organisons ou auxquels nous participons.</description>
     <link>https://douai-collectif.fr/agenda</link>
     <atom:link href="https://douai-collectif.fr/agenda.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 03 Dec 2025 11:30:00 GMT</lastBuildDate>
-    <pubDate>Fri, 02 Jan 2026 16:18:43 GMT</pubDate>
+    <lastBuildDate>Wed, 28 Jan 2026 20:10:00 GMT</lastBuildDate>
+    <pubDate>Sun, 04 Jan 2026 13:52:16 GMT</pubDate>
     <ttl>1800</ttl>
+      <item>
+        <guid isPermaLink="true">https://douai-collectif.fr/agenda/reunion-de-quartier-frais-marais</guid>
+        <title>Réunion de quartier - Frais-Marais</title>
+        <description>Nous vous recevons dans votre quartier pour prendre note de vos problématiques spécifiques.</description>
+        <link>https://douai-collectif.fr/agenda/reunion-de-quartier-frais-marais</link>
+        <pubDate>Wed, 28 Jan 2026 20:10:00 GMT</pubDate>
+      </item>
+      <item>
+        <guid isPermaLink="true">https://douai-collectif.fr/agenda/reunion-de-quartier-la-clochette</guid>
+        <title>Réunion de quartier - La Clochette</title>
+        <description>Nous vous recevons dans votre quartier pour prendre note de vos problématiques spécifiques.</description>
+        <link>https://douai-collectif.fr/agenda/reunion-de-quartier-la-clochette</link>
+        <pubDate>Wed, 28 Jan 2026 20:00:00 GMT</pubDate>
+      </item>
+      <item>
+        <guid isPermaLink="true">https://douai-collectif.fr/agenda/reunion-de-quartier-faubourg-d-esquerchin</guid>
+        <title>Réunion de quartier - Faubourg d&apos;Esquerchin</title>
+        <description>Nous vous recevons dans votre quartier pour prendre note de vos problématiques spécifiques.</description>
+        <link>https://douai-collectif.fr/agenda/reunion-de-quartier-faubourg-d-esquerchin</link>
+        <pubDate>Wed, 28 Jan 2026 19:50:00 GMT</pubDate>
+      </item>
+      <item>
+        <guid isPermaLink="true">https://douai-collectif.fr/agenda/reunion-de-quartier-dorignies-est</guid>
+        <title>Réunion de quartier - Dorignies Est</title>
+        <description>Nous vous recevons dans votre quartier pour prendre note de vos problématiques spécifiques.</description>
+        <link>https://douai-collectif.fr/agenda/reunion-de-quartier-dorignies-est</link>
+        <pubDate>Wed, 28 Jan 2026 19:40:00 GMT</pubDate>
+      </item>
+      <item>
+        <guid isPermaLink="true">https://douai-collectif.fr/agenda/reunion-de-quartier-dorignies-ouest</guid>
+        <title>Réunion de quartier - Dorignies Ouest</title>
+        <description>Nous vous recevons dans votre quartier pour prendre note de vos problématiques spécifiques.</description>
+        <link>https://douai-collectif.fr/agenda/reunion-de-quartier-dorignies-ouest</link>
+        <pubDate>Wed, 28 Jan 2026 19:30:00 GMT</pubDate>
+      </item>
+      <item>
+        <guid isPermaLink="true">https://douai-collectif.fr/agenda/reunion-de-quartier-faubourg-de-bethune</guid>
+        <title>Réunion de quartier - Faubourg de Béthune</title>
+        <description>Nous vous recevons dans votre quartier pour prendre note de vos problématiques spécifiques.</description>
+        <link>https://douai-collectif.fr/agenda/reunion-de-quartier-faubourg-de-bethune</link>
+        <pubDate>Sun, 04 Jan 2026 19:20:00 GMT</pubDate>
+      </item>
+      <item>
+        <guid isPermaLink="true">https://douai-collectif.fr/agenda/reunion-de-quartier-residence-gayant</guid>
+        <title>Réunion de quartier - Résidence Gayant</title>
+        <description>Nous vous recevons dans votre quartier pour prendre note de vos problématiques spécifiques.</description>
+        <link>https://douai-collectif.fr/agenda/reunion-de-quartier-residence-gayant</link>
+        <pubDate>Sun, 04 Jan 2026 19:10:00 GMT</pubDate>
+      </item>
+      <item>
+        <guid isPermaLink="true">https://douai-collectif.fr/agenda/reunion-de-quartier-carnot-gare</guid>
+        <title>Réunion de quartier - Carnot/Gare</title>
+        <description>Nous vous recevons dans votre quartier pour prendre note de vos problématiques spécifiques.</description>
+        <link>https://douai-collectif.fr/agenda/reunion-de-quartier-carnot-gare</link>
+        <pubDate>Sun, 04 Jan 2026 19:00:00 GMT</pubDate>
+      </item>
       <item>
         <guid isPermaLink="true">https://douai-collectif.fr/agenda/reunion-de-travail-du-collectif</guid>
         <title>Réunion de travail du collectif</title>
