@@ -4,6 +4,7 @@ import remarkParse from "remark-parse";
 import remarkGfm from "remark-gfm";
 import Anchor from "../components/a";
 import Anchored from "../components/anchored";
+import Attachment from "../components/attachment";
 import Blockquote from "../components/blockquote";
 import Heading1 from "../components/h1";
 import Heading2 from "../components/h2";
@@ -341,15 +342,15 @@ const hyperlinkMap: NodeToElementMapper<MarkdownLinkNode> = (context, node) => {
       ></iframe>
     </span>
   ) : node?.title?.startsWith("📃") ? (
-    <span className={styles.root} key={context.index}>
-      <iframe
-        width="100%"
-        height="800px"
-        src={qualifyPath(node.url)}
-        title={node.title.replace(/^📃\s*/u, "").trim()}
-        allowFullScreen
-      ></iframe>
-    </span>
+    <Attachment
+      key={context.index}
+      src={qualifyPath(node.url)}
+      title={node.title.replace(/^📃\s*/u, "").trim()}
+    >
+      {node.children.map((node, index) =>
+        renderMarkdown({ ...context, index }, node)
+      )}
+    </Attachment>
   ) : (
     <Anchor
       href={node.url}
