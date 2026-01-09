@@ -1,5 +1,5 @@
 :HL["https://douai-collectif.fr/_next/static/chunks/6bf285aba4ea20ea.css","style"]
-:HL["https://douai-collectif.fr/_next/static/chunks/42ea107f8210f666.css","style"]
+:HL["https://douai-collectif.fr/_next/static/chunks/d0fb7f594eb9155e.css","style"]
 :HL["https://douai-collectif.fr/illustrations/stephanie-stiernon.jpg","image"]
 :HL["https://douai-collectif.fr/illustrations/stand-ufc-que-choisir-douai-eau-potable.jpg","image"]
 :HL["https://douai-collectif.fr/images/diaporamas/transports/transports-page-de-garde.png","image"]
@@ -10,4 +10,4 @@
 :HL["https://douai-collectif.fr/images/diaporamas/participation/4-leviers-page-de-garde.png","image"]
 :HL["https://douai-collectif.fr/images/diaporamas/rejoindre/3-raisons-page-de-garde.png","image"]
 :HL["https://douai-collectif.fr/illustrations/mairie-douai.jpg","image"]
-0:{"buildId":"8CaN5TqCxlZ9gRQpywDYW","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"actualites","paramType":null,"paramKey":"actualites","hasRuntimePrefetch":false,"slots":{"children":{"name":"pages","paramType":null,"paramKey":"pages","hasRuntimePrefetch":false,"slots":{"children":{"name":"page","paramType":"d","paramKey":"0","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"REdgtjr32E_Tvm1ezoc89","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"actualites","paramType":null,"paramKey":"actualites","hasRuntimePrefetch":false,"slots":{"children":{"name":"pages","paramType":null,"paramKey":"pages","hasRuntimePrefetch":false,"slots":{"children":{"name":"page","paramType":"d","paramKey":"0","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
