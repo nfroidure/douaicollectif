@@ -1,9 +1,10 @@
+import styles from "./page.module.scss";
+
 import buildMetadata from "../utils/metadata";
 import ContentBlock from "../components/contentBlock";
 import Heading1 from "../components/h1";
 import Heading2 from "../components/h2";
 import Paragraph from "../components/p";
-import Strong from "../components/strong";
 import Anchor from "../components/a";
 import UnorderedList from "../components/ul";
 import ListItem from "../components/li";
@@ -22,10 +23,11 @@ export default async function Page() {
   return (
     <ContentBlock>
       <Heading1>Douai Collectif&nbsp;!</Heading1>
-      <Paragraph>
-        <Strong>
-          Pour une ville citoyenne, écologique et solidaire&nbsp;!
-        </Strong>
+      <Paragraph className={styles.image}>
+        <img
+          src={"/images/banner-douai-collectif.jpg"}
+          alt="Bannière : Pour une ville citoyenne, écologique et solidaire !"
+        />
       </Paragraph>
       <Paragraph>
         Douai Collectif&nbsp;! a pour vocation de présenter une liste aux
