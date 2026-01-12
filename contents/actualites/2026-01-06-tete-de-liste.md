@@ -36,7 +36,7 @@ En 2020, faisant le constat que les choix écologiques ne peuvent avoir qu’une
 
 Élue à Douai en 2020, elle a assumé les charges suivantes :
 
-- Maire adjointe déléguée à l'urbanisme pour la ville de 2020 à fin 2025,
+- Maire adjointe déléguée à l’urbanisme pour la ville de 2020 à fin 2025,
 - Maire adjointe déléguée au quartier Entre 2 Scarpe de 2022 à 2024,
 - Conseillère au Schéma de Cohérence territoriale (Scot) de 2020 à fin 2025,
 - conseillère communautaire à Douaisis Agglo.
@@ -81,9 +81,9 @@ Parmi les axes structurants de notre projet :
 - **une ville écologique :** création de vergers et potagers publics, cantine 100% bio, rénovation énergétique des bâtiments communaux, intensification du couvert végétal, mise en place du broyage communal, mise en œuvre du compostage de quartier, finalisation du plan école oasis,
 - **dynamisation du centre ville :** candidature à l’expérimentation de l’encadrement des loyers commerciaux, augmentation du taux d’imposition sur les locaux vacants avec introduction de la progressivité, animation régulière du centre ville (théâtre de rue, activités enfants etc…),
 - **lutte contre l’isolement et la précarité**, NNous renforcerons les services du CCAS et les partenariats associatifs pour aller davantage au contact direct des personnes isolées. Nous optimiserons l’usage des bâtiments existants à la mode des tiers-lieux pour qu’elles puissent s’y retrouver, recréer du collectif, développer de nouvelles solidarités (salles de motricité, cours d’écoles etc…). Nous organiserons des Assises des Solitudes afin de faire un diagnostic de la situation et de définir des actions prioritaires. Pour lutter contre la précarité, nous proposerons un crédit municipal et une mutuelle municipale.
-- **un accès aux cultures et aux loisirs pour toutes et tous :** grâce à une plus grande polyvalence des lieux de culture, favoriser la mixité des usages pour provoquer la rencontre avec différentes formes d’art, permettre la décentralisation de représentations théâtrales, musicales, d’expositions. Il s’agit également d’adapter des locaux existants dans différents quartiers pour en faire des lieux accueillant la culture, faciliter l’accès aux spectacles du théâtre municipal et de l’Hippodrome (via la réduction du nombre d’abonnements). Nous démocratiserons l’accès aux infrastructure de loisirs de la commune et de l'agglomération.
+- **un accès aux cultures et aux loisirs pour toutes et tous :** grâce à une plus grande polyvalence des lieux de culture, favoriser la mixité des usages pour provoquer la rencontre avec différentes formes d’art, permettre la décentralisation de représentations théâtrales, musicales, d’expositions. Il s’agit également d’adapter des locaux existants dans différents quartiers pour en faire des lieux accueillant la culture, faciliter l’accès aux spectacles du théâtre municipal et de l’Hippodrome (via la réduction du nombre d’abonnements). Nous démocratiserons l’accès aux infrastructure de loisirs de la commune et de l’agglomération.
 - **la prise en compte du grand âge, de la jeunesse et du handicap** dans tous les projets de la mairie, à travers la mise en place d’une ville inclusive sur des critères objectifs, déterminés avec la population (plan bancs, mobilier urbain adapté, cheminements piétons adaptés au grand âge, mise en conformité des bâtiments publics, service de liaison en tricycle dans la rue piétonne),
-- **une transparence maximale de l’action municipale** (appels d'offres, associations, budget, présence des élu-e-s aux instances, signature de la charte Anticor,...)
+- **une transparence maximale de l’action municipale** (appels d’offres, associations, budget, présence des élu-e-s aux instances, signature de la charte Anticor,...)
 - **une démocratie participative épanouie :** des assemblées de quartier ouvertes, un budget participatif doublé, mise en place du “live des élus”, de motions citoyennes, réflexion sur le mandat impératif.
 
 ## Une dynamique collective tournée vers l’avenir
