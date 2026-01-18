@@ -1,5 +1,5 @@
 :HL["https://douai-collectif.fr/_next/static/chunks/6bf285aba4ea20ea.css","style"]
-:HL["https://douai-collectif.fr/_next/static/chunks/d0fb7f594eb9155e.css","style"]
+:HL["https://douai-collectif.fr/_next/static/chunks/0216cccaa1347055.css","style"]
 :HL["https://douai-collectif.fr/_next/static/chunks/b9378b99d7c21164.css","style"]
 :HL["/images/banner-douai-collectif.jpg","image"]
-0:{"buildId":"oEhdrYqUp-_VMcEkocjUW","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"Ztm-iN3gOiZvARA2SXWvE","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}

@@ -1,7 +1,7 @@
 :HL["https://douai-collectif.fr/_next/static/chunks/6bf285aba4ea20ea.css","style"]
-:HL["https://douai-collectif.fr/_next/static/chunks/d0fb7f594eb9155e.css","style"]
+:HL["https://douai-collectif.fr/_next/static/chunks/0216cccaa1347055.css","style"]
 :HL["https://douai-collectif.fr/_next/static/chunks/53a3591c5ff05149.css","style"]
 :HL["https://douai-collectif.fr/illustrations/photo-scarpe.jpg","image"]
 :HL["https://douai-collectif.fr/illustrations/table-ronde-handicap.jpeg","image"]
 :HL["https://douai-collectif.fr/illustrations/reunion-travail.jpeg","image"]
-0:{"buildId":"oEhdrYqUp-_VMcEkocjUW","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"actualites","paramType":null,"paramKey":"actualites","hasRuntimePrefetch":false,"slots":{"children":{"name":"id","paramType":"d","paramKey":"la-loi-1905-sur-la-laicite-a-120-ans","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"Ztm-iN3gOiZvARA2SXWvE","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"actualites","paramType":null,"paramKey":"actualites","hasRuntimePrefetch":false,"slots":{"children":{"name":"id","paramType":"d","paramKey":"la-loi-1905-sur-la-laicite-a-120-ans","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
