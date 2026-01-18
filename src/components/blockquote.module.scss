@@ -1,9 +1,9 @@
 .root {
   font-family: var(--writingFont);
-  font-size: var(--greatFontSize);
-  line-height: var(--greatLineHeight);
-  margin: 0 0 var(--vRhythm) 0;
+  font-size: var(--bigFontSize);
+  line-height: var(--bigLineHeight);
+  margin: var(--vRhythm) 0;
   padding: 0 0 0 var(--gutter);
-  border-left: var(--border) solid var(--green2);
+  border-left: var(--border) solid var(--primary-darker);
   overflow-wrap: break-word;
 }
