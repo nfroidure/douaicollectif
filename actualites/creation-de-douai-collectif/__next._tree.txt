@@ -2,7 +2,7 @@
 :HL["https://douai-collectif.fr/_next/static/chunks/0216cccaa1347055.css","style"]
 :HL["https://douai-collectif.fr/_next/static/chunks/53a3591c5ff05149.css","style"]
 :HL["/images/logo.svg","image"]
+:HL["https://douai-collectif.fr/images/diaporamas/gouvernance/gouvernance-page-de-garde.png","image"]
 :HL["https://douai-collectif.fr/illustrations/vaches-dans-un-pre.jpg","image"]
 :HL["https://douai-collectif.fr/illustrations/inkscape-paths.png","image"]
-:HL["https://douai-collectif.fr/illustrations/stephanie-stiernon.jpg","image"]
-0:{"buildId":"Ztm-iN3gOiZvARA2SXWvE","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"actualites","paramType":null,"paramKey":"actualites","hasRuntimePrefetch":false,"slots":{"children":{"name":"id","paramType":"d","paramKey":"creation-de-douai-collectif","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"79ThYRjLbXokHJU6jTiQk","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"actualites","paramType":null,"paramKey":"actualites","hasRuntimePrefetch":false,"slots":{"children":{"name":"id","paramType":"d","paramKey":"creation-de-douai-collectif","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
