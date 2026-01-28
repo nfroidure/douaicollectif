@@ -60,8 +60,7 @@ pour la Démocratie locale :**
 
 Une Maison de la Citoyenneté en cœur de ville (par exemple, Galerie de la Madeleine), servant de lieu d’accueil, de conférence et d’exposition pour les associations et la vie démocratique.
 
-Ce lieu sera ouvert aux habitant-es, aux partenaires
-institutionnels, aux associations. Son objectif : faire ensemble, créer des synergies, encourager les possibles, rendre visibles les initiatives existantes, en encourager de nouvelles !
+Ce lieu sera ouvert aux habitant-es, aux partenaires institutionnels, aux associations. Son objectif : faire ensemble, créer des synergies, encourager les possibles, rendre visibles les initiatives existantes, en encourager de nouvelles !
 
 ## Rejoignez-nous !
 
