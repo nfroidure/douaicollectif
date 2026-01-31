@@ -6,7 +6,18 @@
   <subtitle>Découvrez les actualités de Douai Collectif.</subtitle>
   <link href="https://douai-collectif.fr/actualites.atom" rel="self" type="application/atom+xml" />
   <link href="https://douai-collectif.fr/actualites" rel="alternate" type="text/html" />
-  <updated>2026-01-28T12:30:00.000Z</updated>
+  <updated>2026-01-31T13:30:00.000Z</updated>
+  <entry>
+    <id>https://douai-collectif.fr/actualites/pour-plus-de-democratie-directe-a-douai</id>
+    <title>Pour plus de démocratie directe à Douai</title>
+    <link href="https://douai-collectif.fr/actualites/pour-plus-de-democratie-directe-a-douai" rel="alternate" type="text/html" />
+    <updated>2026-01-31T13:30:00.000Z</updated>
+    <published>2026-01-31T13:30:00.000Z</published>
+    <summary>L’insuffisance de la démocratie participative et l’absence de démocratie directe sont des faiblesses sur lesquelles nous souhaitons mobiliser la ville rapidement.</summary>
+    <author>
+      <name>Douai Collectif</name>
+    </author>
+  </entry>
   <entry>
     <id>https://douai-collectif.fr/actualites/4-grands-principes-pour-une-gouvernance-partagee-a-douai</id>
     <title>4 grands principes pour une gouvernance partagée à Douai</title>
