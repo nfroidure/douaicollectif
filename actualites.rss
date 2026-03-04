@@ -6,9 +6,16 @@
     <description>Découvrez les actualités de Douai Collectif.</description>
     <link>https://douai-collectif.fr/actualites</link>
     <atom:link href="https://douai-collectif.fr/actualites.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 31 Jan 2026 13:30:00 GMT</lastBuildDate>
-    <pubDate>Wed, 25 Feb 2026 13:06:29 GMT</pubDate>
+    <lastBuildDate>Wed, 04 Mar 2026 12:30:00 GMT</lastBuildDate>
+    <pubDate>Wed, 04 Mar 2026 12:44:00 GMT</pubDate>
     <ttl>1800</ttl>
+      <item>
+        <guid isPermaLink="true">https://douai-collectif.fr/actualites/notre-reponse-au-questionnaire-droit-d-velo-pour-douai</guid>
+        <title>Notre réponse au questionnaire Droit d’Vélo pour Douai</title>
+        <description>L’association Droit d’Vélo a interpelé les candidat·es aux municipales avec un questionnaire que nous avons eu plaisir à compléter.</description>
+        <link>https://douai-collectif.fr/actualites/notre-reponse-au-questionnaire-droit-d-velo-pour-douai</link>
+        <pubDate>Wed, 04 Mar 2026 12:30:00 GMT</pubDate>
+      </item>
       <item>
         <guid isPermaLink="true">https://douai-collectif.fr/actualites/pour-plus-de-democratie-directe-a-douai</guid>
         <title>Pour plus de démocratie directe à Douai</title>
