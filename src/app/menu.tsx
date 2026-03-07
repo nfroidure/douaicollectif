@@ -22,6 +22,11 @@ const MENU_ITEMS = [
     title: "Découvrir notre programme",
   },
   {
+    href: "/candidat-es",
+    label: "Candidat·es",
+    title: "Découvrir la liste de nos candidat·es",
+  },
+  {
     href: "/actualites",
     label: "Actualités",
     title: "Lire les actualités",

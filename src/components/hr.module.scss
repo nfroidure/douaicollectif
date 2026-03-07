@@ -1,4 +1,5 @@
 .root {
+  clear: both;
   border-bottom: var(--border) solid var(--quaternary-darker);
   margin: 0 0 calc(var(--vRhythm) - var(--border)) 0;
 }
