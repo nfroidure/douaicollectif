@@ -9,9 +9,9 @@ draft: false
 
 Nous avons souhaité proposer une liste de Douaisien·nes varié·es et reconnu·es dans leur quartier ou pour leur engagement en faveur de l'écologie, de la solidarité ou citoyen.
 
-## 01 - Stephanie Stiernon
+## 01 - Stéphanie Stiernon
 
-![01 Stephanie Stiernon](/public/candidat-es/01-stephanie-stiernon.png "🖼⬅️◼")
+![01 Stéphanie Stiernon](/public/candidat-es/01-stephanie-stiernon.png "🖼⬅️◼")
 
 ---
 
@@ -57,9 +57,9 @@ Nous avons souhaité proposer une liste de Douaisien·nes varié·es et reconnu�
 
 ---
 
-## 09 - Frederique Vanderlynden
+## 09 - Frédérique Vanderlynden
 
-![09 Frederique Vanderlynden](/public/candidat-es/09-frederique-vanderlynden.png "🖼⬅️◼")
+![09 Frédérique Vanderlynden](/public/candidat-es/09-frederique-vanderlynden.png "🖼⬅️◼")
 
 ---
 
@@ -135,15 +135,15 @@ Nous avons souhaité proposer une liste de Douaisien·nes varié·es et reconnu�
 
 ---
 
-## 22 - Laelien Dhee
+## 22 - Laélien Dhée
 
-![22 Laelien Dhee](/public/candidat-es/22-laelien-dhee.png "🖼⬅️◼")
+![22 Laélien Dhée](/public/candidat-es/22-laelien-dhee.png "🖼⬅️◼")
 
 ---
 
-## 23 - Severine Grignon Emiel
+## 23 - Séverine Grignon Emiel
 
-![23 Severine Grignon Emiel](/public/candidat-es/23-severine-grignon-emiel.png "🖼⬅️◼")
+![23 Séverine Grignon Emiel](/public/candidat-es/23-severine-grignon-emiel.png "🖼⬅️◼")
 
 ---
 
@@ -255,9 +255,9 @@ Nous avons souhaité proposer une liste de Douaisien·nes varié·es et reconnu�
 
 ---
 
-## 44 - Jean Philippe Bocquiault
+## 44 - Jean-Philippe Bocquiault
 
-![44 Jean Philippe Bocquiault](/public/candidat-es/44-jean-philippe-bocquiault.png "🖼⬅️◼")
+![44 Jean-Philippe Bocquiault](/public/candidat-es/44-jean-philippe-bocquiault.png "🖼⬅️◼")
 
 ---
 
