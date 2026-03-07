@@ -10,7 +10,7 @@ a.a-module-scss-module__kXaDIq__root,a.a-module-scss-module__kXaDIq__root:visite
 .h4-module-scss-module__2jqcVq__root{font-family:var(--headingFont);font-size:var(--bigFontSize);line-height:var(--bigLineHeight);margin:0 0 var(--vRhythm)0;overflow-wrap:break-word}
 .h5-module-scss-module__-vEeqW__root{font-family:var(--headingFont);font-size:var(--mediumFontSize);line-height:var(--mediumLineHeight);margin:0 0 var(--vRhythm)0;overflow-wrap:break-word}
 .h6-module-scss-module__rW18Xa__root{font-family:var(--headingFont);font-size:var(--mediumFontSize);line-height:var(--mediumLineHeight);margin:0 0 var(--vRhythm)0;overflow-wrap:break-word}
-.hr-module-scss-module__TTHTjG__root{border-bottom:var(--border)solid var(--quaternary-darker);margin:0 0 calc(var(--vRhythm) - var(--border))0}
+.hr-module-scss-module__TTHTjG__root{clear:both;border-bottom:var(--border)solid var(--quaternary-darker);margin:0 0 calc(var(--vRhythm) - var(--border))0}
 .li-module-scss-module__u3ozca__root{overflow-wrap:break-word}.li-module-scss-module__u3ozca__root>:first-child:last-child{margin:0}
 .ol-module-scss-module__0N-IfG__root{margin:0 0 var(--vRhythm)0}
 .p-module-scss-module__nB0DVq__root{margin:0 0 var(--vRhythm)0;overflow-wrap:break-word}
