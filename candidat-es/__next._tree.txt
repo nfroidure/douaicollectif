@@ -43,4 +43,4 @@
 :HL["https://douai-collectif.fr/candidat-es/43-estelle-legrand.png","image"]
 :HL["https://douai-collectif.fr/candidat-es/44-jean-philippe-bocquiault.png","image"]
 :HL["https://douai-collectif.fr/candidat-es/45-emmanuelle-lenne.png","image"]
-0:{"buildId":"3WhfxGOBGIzIGQWMSX_Qc","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"slug","paramType":"c","paramKey":"candidat-es","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"5XbuHcq-E3fx-kTjJIg2D","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"slug","paramType":"c","paramKey":"candidat-es","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
