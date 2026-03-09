@@ -7,6 +7,7 @@ import {
   INSTAGRAM_ACCOUNT,
   MASTODON_ACCOUNT,
   MASTODON_SERVER,
+  YOUTUBE_ACCOUNT,
 } from "../utils/constants";
 
 export default function Social() {
@@ -17,7 +18,7 @@ export default function Social() {
           <a
             href={`https://${MASTODON_SERVER}/@${MASTODON_ACCOUNT}`}
             rel="me"
-            title="Me suivre sur Mastodon"
+            title="Nous suivre sur Mastodon"
             target="_blank"
           >
             <span>Mastodon</span>
@@ -27,7 +28,7 @@ export default function Social() {
           <a
             href={`https://${BLUESKY_APP}/profile/${BLUESKY_ACCOUNT}.${BLUESKY_SERVER}`}
             rel="me"
-            title="Me suivre sur Bluesky"
+            title="Nous suivre sur Bluesky"
             target="_blank"
           >
             <span>Bluesky</span>
@@ -37,17 +38,27 @@ export default function Social() {
           <a
             href={`https://facebook.com/${FACEBOOK_ACCOUNT}`}
             rel="me"
-            title="Me suivre sur Facebook"
+            title="Nous suivre sur Facebook"
             target="_blank"
           >
             <span>Facebook</span>
+          </a>
+        </li>
+        <li className={styles.youtube}>
+          <a
+            href={`https://youtube.com/@${YOUTUBE_ACCOUNT}`}
+            rel="me"
+            title="Nous suivre sur YouTube"
+            target="_blank"
+          >
+            <span>YouTube</span>
           </a>
         </li>
         <li className={styles.instagram}>
           <a
             href={`https://instagram.com/${INSTAGRAM_ACCOUNT}`}
             rel="me"
-            title="Me suivre sur instagram"
+            title="Nous suivre sur instagram"
             target="_blank"
           >
             <span>Instagram</span>
