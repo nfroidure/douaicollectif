@@ -48,14 +48,23 @@ export default async function Page() {
         </ListItem>
         <ListItem>
           <Anchor href="/programme" title="Découvrir notre programme">
-            Notre programme pour Douai&nbsp;:
+            notre programme pour Douai&nbsp;:
           </Anchor>{" "}
           un document vivant, en perpétuelle évolution, que nous enrichirons
           pendant toute la campagne,
         </ListItem>
         <ListItem>
+          <Anchor
+            href="/candidat-es"
+            title="Découvrir nos candidat·es pour les municipales 2026 à Douai"
+          >
+            la liste de nos candidat·es&nbsp;:
+          </Anchor>{" "}
+          le meilleur des projets nécessite la meilleure des équipes,
+        </ListItem>
+        <ListItem>
           <Anchor href="/actualites" title="Lire les actualités">
-            Les actualités du collectif&nbsp;:
+            les actualités du collectif&nbsp;:
           </Anchor>{" "}
           pour découvrir nos dernières actualités,
         </ListItem>
@@ -64,7 +73,7 @@ export default async function Page() {
             href="/faq"
             title="Voir les réponses aux questions fréquemment posées"
           >
-            Une FAQ&nbsp;:
+            une FAQ&nbsp;:
           </Anchor>{" "}
           pour répondre aux questions que vous nous posez fréquemment.
         </ListItem>
