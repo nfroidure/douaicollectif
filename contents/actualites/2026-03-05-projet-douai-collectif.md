@@ -19,11 +19,11 @@ illustration:
 
 # Notre grand projet pour Douai est collectif !
 
-![Photographie de notre collectif devant la porte de Valenciennes et sans rooftop !](/public/illustrations/douai-collectif-porte-valenciennes.jpg "🖼️➡️")
-
 **Douai Collectif ! porte un programme complet dont une partie recouvre des investissements et une autre des dépenses, mais aussi des économies de fonctionnement.** Nous souhaitons clarifier notre méthodologie aux yeux des Douaisien·nes afin de leur permettre d’en juger en toute transparence avant de choisir leur prochain·e Maire.
 
 # Une méthode transversale expliquée en toute transparence
+
+![Photographie de notre collectif devant la porte de Valenciennes et sans rooftop !](/public/illustrations/douai-collectif-porte-valenciennes.jpg "🖼️➡️")
 
 Au cours des 8 réunions publiques de quartier, nous avons pu exposer aux Douaisien·nes à quel point toutes nos mesures étaient interconnectées et faisaient système pour réparer la ville et utiliser au mieux ses ressources actuelles.
 
