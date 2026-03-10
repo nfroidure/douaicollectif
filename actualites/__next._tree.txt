@@ -1,6 +1,7 @@
 :HL["https://douai-collectif.fr/_next/static/chunks/6bf285aba4ea20ea.css","style"]
 :HL["https://douai-collectif.fr/_next/static/chunks/711f0e815c444ea1.css","style"]
 :HL["https://douai-collectif.fr/illustrations/debat-france-television.jpg","image"]
+:HL["https://douai-collectif.fr/illustrations/douai-collectif-porte-valenciennes.jpg","image"]
 :HL["https://douai-collectif.fr/illustrations/stephanie-stiernon-velo-maritime.jpg","image"]
 :HL["https://douai-collectif.fr/illustrations/mairie-douai.jpg","image"]
 :HL["https://douai-collectif.fr/images/diaporamas/gouvernance/gouvernance-page-de-garde.png","image"]
@@ -9,5 +10,4 @@
 :HL["https://douai-collectif.fr/illustrations/stephanie-stiernon.jpg","image"]
 :HL["https://douai-collectif.fr/illustrations/stand-ufc-que-choisir-douai-eau-potable.jpg","image"]
 :HL["https://douai-collectif.fr/images/diaporamas/transports/transports-page-de-garde.png","image"]
-:HL["https://douai-collectif.fr/illustrations/aristide-briand-par-marcel-baschet.jpg","image"]
-0:{"buildId":"5XbuHcq-E3fx-kTjJIg2D","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"actualites","paramType":null,"paramKey":"actualites","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"Ml74ZUi3AMi8LU7YMurDK","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"actualites","paramType":null,"paramKey":"actualites","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
