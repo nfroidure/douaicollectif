@@ -2,4 +2,4 @@
 :HL["https://douai-collectif.fr/_next/static/chunks/711f0e815c444ea1.css","style"]
 :HL["https://douai-collectif.fr/_next/static/chunks/b9378b99d7c21164.css","style"]
 :HL["/images/banner-douai-collectif.jpg","image"]
-0:{"buildId":"ExL1zKpLq8pc-iGrjDKTJ","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"ozGeM7qiInwQ4AQkyNA7d","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
