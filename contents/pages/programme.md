@@ -23,13 +23,13 @@ Une peu moins de temps ? Retrouvez notre tract programmatique sous forme numér
 
 ## Profession de foi
 
-La profession de foi de Stéphanie STIERNON que vous recevrez dans votre boîte ua lettres accompagnée de notre bulletin de vote.
+La profession de foi de Stéphanie STIERNON que vous recevrez dans votre boîte aux lettres accompagnée de notre bulletin de vote.
 
 [Pour lire la profession de foi de Stéphanie STIERNON, cliquez sur ce lien.](/documents/circulaire-douai-collectif.pdf "📃 Lire la profession de foi de Stéphanie STIERNON")
 
 ## Programme complet
 
-Et enfin, notre programme complet pour les personnes soucieuses du oindre détail !
+Et enfin, notre programme complet pour les personnes soucieuses du moindre détail !
 
 [Pour lire notre programme, cliquez sur ce lien.](/documents/programme-municipal-douai-collectif.pdf "📃 Lire notre programme")
 
