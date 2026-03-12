@@ -13,7 +13,7 @@ export default function Attachment({
 }) {
   return (
     <span className={styles.root}>
-      <Anchor href={src} title={title}>
+      <Anchor href={src} title={title} target="_blank">
         {children}
       </Anchor>
       <iframe

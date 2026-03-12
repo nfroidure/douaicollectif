@@ -8,11 +8,12 @@ export default function Anchor({
   className,
   icon,
   iconPosition = "first",
+  target = "_self",
   ...props
 }: {
   icon?: string;
   iconPosition?: "first" | "last";
-} & Exclude<ComponentProps<typeof Link>, "href" | "target"> & {
+} & Exclude<ComponentProps<typeof Link>, "href"> & {
     title: string;
   }) {
   return (
@@ -28,7 +29,7 @@ export default function Anchor({
           : []),
       ].join(" ")}
       {...props}
-      target={href.toString().startsWith("http") ? "_blank" : "_self"}
+      target={href.toString().startsWith("http") ? "_blank" : target}
     >
       {icon ? <span className={styles.icon} /> : null}
       {children}

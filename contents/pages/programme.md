@@ -15,6 +15,12 @@ Vous avez un peu de temps à nous consacrer ? Regardez les lives thématiques d
 
 [Les lives de Douai Collectif](https://www.youtube.com/playlist?list=PLknYhEYxR7UkYQhGtvQvD-ayR-l4SVf3Q "📺 Voir les lives")
 
+## Livret programmatique
+
+Notre livret programmatique présente notre programme sous une forme plus graphique :
+
+[Pour voir notre livret programmatique, cliquez sur ce lien.](/documents/programme-mis-en-page.pdf "📃 Lire notre livret programmatique")
+
 ## Tract
 
 Une peu moins de temps ? Retrouvez notre tract programmatique sous forme numérique.
