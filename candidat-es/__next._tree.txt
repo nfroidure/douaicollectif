@@ -1,5 +1,5 @@
 :HL["https://douai-collectif.fr/_next/static/chunks/6bf285aba4ea20ea.css","style"]
-:HL["https://douai-collectif.fr/_next/static/chunks/711f0e815c444ea1.css","style"]
+:HL["https://douai-collectif.fr/_next/static/chunks/263178fdc4d4be28.css","style"]
 :HL["https://douai-collectif.fr/candidat-es/01-stephanie-stiernon.png","image"]
 :HL["https://douai-collectif.fr/candidat-es/02-baptiste-hedon.png","image"]
 :HL["https://douai-collectif.fr/candidat-es/03-emmanuelle-dumont.png","image"]
@@ -43,4 +43,4 @@
 :HL["https://douai-collectif.fr/candidat-es/43-estelle-legrand.png","image"]
 :HL["https://douai-collectif.fr/candidat-es/44-jean-philippe-bocquiault.png","image"]
 :HL["https://douai-collectif.fr/candidat-es/45-emmanuelle-lenne.png","image"]
-0:{"buildId":"yI-hvmuSfVX23dp4sy2eh","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"slug","paramType":"c","paramKey":"candidat-es","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"4gGRTdcFfss1C2-w3WFA1","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"slug","paramType":"c","paramKey":"candidat-es","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
