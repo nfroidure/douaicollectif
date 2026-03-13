@@ -1,10 +1,10 @@
-export function parseYouTubeURL(url: string):
-  | {
-      videoId: string;
-      playlistId?: string;
-      startTime?: string;
-    }
-  | undefined {
+export type YouTubeURL = {
+  videoId: string;
+  playlistId?: string;
+  startTime?: string;
+};
+
+export function parseYouTubeURL(url: string): YouTubeURL | undefined {
   if (!url) {
     return undefined;
   }
@@ -15,10 +15,8 @@ export function parseYouTubeURL(url: string):
     if (
       (parsedURL.hostname === "www.youtube.com" ||
         parsedURL.hostname === "www.youtube.com") &&
-      (
-        parsedURL.searchParams.get("v") != null ||
-        parsedURL.searchParams.get("list") != null
-      )
+      (parsedURL.searchParams.get("v") != null ||
+        parsedURL.searchParams.get("list") != null)
     ) {
       return {
         playlistId: parsedURL.searchParams.get("list") as string,

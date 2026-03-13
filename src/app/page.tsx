@@ -9,6 +9,7 @@ import Anchor from "../components/a";
 import UnorderedList from "../components/ul";
 import ListItem from "../components/li";
 import { type Metadata } from "next";
+import YouTubePlayer from "@/components/youtube";
 
 export async function generateMetadata(): Promise<Metadata> {
   return buildMetadata({
@@ -24,9 +25,11 @@ export default async function Page() {
     <ContentBlock>
       <Heading1>Douai Collectif&nbsp;!</Heading1>
       <Paragraph className={styles.image}>
-        <img
-          src={"/images/banner-douai-collectif.jpg"}
-          alt="Bannière : Pour une ville citoyenne, écologique et solidaire !"
+        <YouTubePlayer
+          url={{
+            videoId: "0kc5qWwZaw4",
+          }}
+          title={"Voir le message de Stéphanie STIERNON"}
         />
       </Paragraph>
       <Paragraph>

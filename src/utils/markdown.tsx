@@ -1,4 +1,3 @@
-import styles from "./markdown.module.css";
 import { unified } from "unified";
 import remarkParse from "remark-parse";
 import remarkGfm from "remark-gfm";
@@ -33,6 +32,7 @@ import { type ImageFloating, type ImageOrientation } from "../components/img";
 import Table from "@/components/table";
 import TableRow from "@/components/tableRow";
 import TableCell from "@/components/tableCell";
+import YouTubePlayer from "@/components/youtube";
 
 export type MarkdownRootNode = {
   type: "root";
@@ -329,22 +329,11 @@ const hyperlinkMap: NodeToElementMapper<MarkdownLinkNode> = (context, node) => {
       title={node.title.replace(/^🎧\s*/u, "").trim()}
     />
   ) : youtubeURL && node?.title?.startsWith("📺") ? (
-    <span className={styles.root} key={context.index}>
-      <iframe
-        width="560"
-        height="315"
-        src={
-          youtubeURL.playlistId
-            ? `https://www.youtube.com/embed/videoseries?list=${youtubeURL.playlistId}`
-            : `https://www.youtube.com/embed/${youtubeURL.videoId}${
-                youtubeURL.startTime ? "?start=" + youtubeURL.startTime : ""
-              }`
-        }
-        title={node.title.replace(/^📺\s*/u, "").trim()}
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        allowFullScreen
-      ></iframe>
-    </span>
+    <YouTubePlayer
+      key={context.index}
+      url={youtubeURL}
+      title={node.title.replace(/^📺\s*/u, "").trim()}
+    />
   ) : node?.title?.startsWith("📃") ? (
     <Attachment
       key={context.index}
